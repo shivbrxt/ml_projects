@@ -154,7 +154,7 @@ ml_projects/
 
 ## 👨‍💻 Author
 
-Shiv Gajsingh
+Shivbrat Singh
 
 MBA Marketing | Aspiring Data Analyst
 
@@ -162,4 +162,3 @@ GitHub:
 https://github.com/shivbrxt
 
 LinkedIn:
-(Add your LinkedIn profile link)
